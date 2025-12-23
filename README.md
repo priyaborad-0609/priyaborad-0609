@@ -58,6 +58,16 @@
 
 ---
 
+## 🧠 Core Strengths
+
+- ✔ REST API Development  
+- ✔ Backend Architecture  
+- ✔ MongoDB Database Design  
+- ✔ Frontend–Backend Integration  
+- ✔ Clean Folder Structure  
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -72,17 +82,6 @@
 </p>
 
 ---
-
-## 🧠 Core Strengths
-
-- ✔ REST API Development  
-- ✔ Backend Architecture  
-- ✔ MongoDB Database Design  
-- ✔ Frontend–Backend Integration  
-- ✔ Clean Folder Structure  
-
----
-
 
 <p align="center">
   💡 <b>"Learn consistently. Build honestly. Grow confidently."</b>
