@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1600&center=true&vCenter=true&width=700&color=1F2937&lines=Turning+Ideas+into+Scalable+Applications;Clean+Code.+Strong+Logic.+Consistency." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1600&center=true&vCenter=true&width=700&color=475569&lines=Turning+Ideas+into+Scalable+Applications;Clean+Code.+Strong+Logic.+Consistency." />
 </p>
 
 <p align="center">
@@ -16,11 +16,10 @@
 
 ## ✨ About Me
 
-- 💻 Full Stack Developer with **backend-first approach**
-- 🧠 Strong understanding of **REST APIs & Databases**
-- 🎯 Focused on **real-world, practical projects**
-- 🔥 Believe in **clean code & proper architecture**
-- 🌱 Currently learning **advanced MERN stack concepts**
+- Full Stack Developer | MERN Stack
+- Turning complex problems into clean, scalable web applications 💻.
+- Specialized in backend development, APIs, and web architecture ⚙️.
+- Passionate about innovating, learning continuously 📚, and delivering high-quality solutions 🚀.
 
 ---
 ## 🌐 Connect With Me
